@@ -14,13 +14,4 @@ Inicio
       escreval("Area do retangulo = ", area:8:4)
       escreval("Perimetro do retangulo = ",perimetro:8:4)
       escreval("Diagonal do retangulo = ",diagonal:8:4)
-
-
-
-
-
-
-      
-
-
 Fimalgoritmo
