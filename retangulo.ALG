@@ -2,10 +2,6 @@ Algoritmo "retangulo"
 
 Var
    base, altura, area, perimetro, diagonal:real
-
-
-
-
 Inicio
       escreva("Digite a base do retangulo: ")
       leia(base)
