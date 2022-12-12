@@ -23,6 +23,7 @@ public class Main {
 			System.out.println(String.format("%.1f", vet[i]));
 		}
 		
+		sc.close();
 	}
 
 }
