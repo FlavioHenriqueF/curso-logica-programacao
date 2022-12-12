@@ -21,6 +21,7 @@ public class Main {
 		System.out.println("PERIMETRO = " + String.format("%.4f", perimetro));
 		System.out.println("DIAGONAL = " + String.format("%.4f", diagonal));
 		
+		sc.close();
 	}
 
 }
