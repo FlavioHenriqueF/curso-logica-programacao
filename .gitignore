@@ -3,6 +3,9 @@
 *.depend
 *.classpath
 *.project
+*.csproj
+*.sln
 bin/
 obj/
 .idea/
+.vs/
