@@ -23,8 +23,6 @@ public class Main {
 			System.out.println("Intervalo (75,100]");
 		}
 		
-		
-		
 	}
 
 }
